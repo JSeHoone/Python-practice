@@ -1,0 +1,26 @@
+# Title Message
+# <type> : <Title>
+# ex) feat : 로그인 기능 추가
+################## Title Max length is 50 ##################
+
+# Title과 Body를 나누기 위한 Line
+
+# Body Message (Optional)
+# - body Message
+# ex) - model/login.py 추가
+##### Body Message Max length is 72 #####
+
+
+# --- COMMIT END ---
+# <Type> List
+#   :sparkles: feat             :  새로운 기능이 추가 되었을 때
+#   :hammer: add                :  Development script를 추가하거나 업데이트 했을 때
+#   :bulb: comment              :  Source code에 주석이 추가되거난 업데이트 되었을 때
+#   :bug: fix                   :  버그를 수정 했을 때
+#   :recycle: refactor          :  Code를 refactoring 했을 때
+#   :memo: doc                  :  Document를 수정했을 경우
+#   :white_check_mark: test     :  Test를 추가하거나, Update, pass 했을 때
+# ----------------------
+#       제목의 첫 이름은 대문자로 한다.
+#       제목은 명령문으로 작성한다.
+#       제목 끝에 마침표를 찍지 않는다.
